@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/kallydev/privacy/ent"
+	"github.com/wq22304/privacy/ent"
 )
 
 // The JDModelFunc type is an adapter to allow the use of ordinary
