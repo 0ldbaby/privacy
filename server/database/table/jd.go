@@ -3,9 +3,9 @@ package table
 import (
 	"context"
 	"database/sql"
-	"github.com/kallydev/privacy/database"
-	"github.com/kallydev/privacy/ent"
-	"github.com/kallydev/privacy/ent/jdmodel"
+	"github.com/wq22304/privacy/database"
+	"github.com/wq22304/privacy/ent"
+	"github.com/wq22304/privacy/ent/jdmodel"
 )
 
 var (
