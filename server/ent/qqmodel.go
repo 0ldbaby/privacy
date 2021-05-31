@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/facebook/ent/dialect/sql"
-	"github.com/kallydev/privacy/ent/qqmodel"
+	"github.com/wq22304/privacy/ent/qqmodel"
 )
 
 // QQModel is the model entity for the QQModel schema.
