@@ -2,10 +2,10 @@ package service
 
 import (
 	"fmt"
-	"github.com/kallydev/privacy/config"
-	"github.com/kallydev/privacy/database"
-	"github.com/kallydev/privacy/database/table"
-	"github.com/kallydev/privacy/ent"
+	"github.com/wq22304/privacy/config"
+	"github.com/wq22304/privacy/database"
+	"github.com/wq22304/privacy/database/table"
+	"github.com/wq22304/privacy/ent"
 	"github.com/labstack/echo/v4"
 	_ "github.com/mattn/go-sqlite3"
 	"log"
