@@ -9,7 +9,7 @@ import (
 
 	"github.com/facebook/ent/dialect/sql/sqlgraph"
 	"github.com/facebook/ent/schema/field"
-	"github.com/kallydev/privacy/ent/jdmodel"
+	"github.com/wq22304/privacy/ent/jdmodel"
 )
 
 // JDModelCreate is the builder for creating a JDModel entity.
