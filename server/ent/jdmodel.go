@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/facebook/ent/dialect/sql"
-	"github.com/kallydev/privacy/ent/jdmodel"
+	"github.com/wq22304/privacy/ent/jdmodel"
 )
 
 // JDModel is the model entity for the JDModel schema.
