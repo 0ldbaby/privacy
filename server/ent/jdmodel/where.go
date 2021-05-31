@@ -4,7 +4,7 @@ package jdmodel
 
 import (
 	"github.com/facebook/ent/dialect/sql"
-	"github.com/kallydev/privacy/ent/predicate"
+	"github.com/wq22304/privacy/ent/predicate"
 )
 
 // ID filters vertices based on their identifier.
