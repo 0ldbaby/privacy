@@ -11,8 +11,8 @@ import (
 	"github.com/facebook/ent/dialect/sql"
 	"github.com/facebook/ent/dialect/sql/sqlgraph"
 	"github.com/facebook/ent/schema/field"
-	"github.com/kallydev/privacy/ent/jdmodel"
-	"github.com/kallydev/privacy/ent/predicate"
+	"github.com/wq22304/privacy/ent/jdmodel"
+	"github.com/wq22304/privacy/ent/predicate"
 )
 
 // JDModelQuery is the builder for querying JDModel entities.
