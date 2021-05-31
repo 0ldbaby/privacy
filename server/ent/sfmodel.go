@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/facebook/ent/dialect/sql"
-	"github.com/kallydev/privacy/ent/sfmodel"
+	"github.com/wq22304/privacy/ent/sfmodel"
 )
 
 // SFModel is the model entity for the SFModel schema.
