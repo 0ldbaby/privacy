@@ -9,8 +9,8 @@ import (
 	"github.com/facebook/ent/dialect/sql"
 	"github.com/facebook/ent/dialect/sql/sqlgraph"
 	"github.com/facebook/ent/schema/field"
-	"github.com/kallydev/privacy/ent/predicate"
-	"github.com/kallydev/privacy/ent/qqmodel"
+	"github.com/wq22304/privacy/ent/predicate"
+	"github.com/wq22304/privacy/ent/qqmodel"
 )
 
 // QQModelUpdate is the builder for updating QQModel entities.
