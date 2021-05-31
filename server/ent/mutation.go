@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/kallydev/privacy/ent/jdmodel"
-	"github.com/kallydev/privacy/ent/predicate"
-	"github.com/kallydev/privacy/ent/qqmodel"
-	"github.com/kallydev/privacy/ent/sfmodel"
+	"github.com/wq22304/privacy/ent/jdmodel"
+	"github.com/wq22304/privacy/ent/predicate"
+	"github.com/wq22304/privacy/ent/qqmodel"
+	"github.com/wq22304/privacy/ent/sfmodel"
 
 	"github.com/facebook/ent"
 )
