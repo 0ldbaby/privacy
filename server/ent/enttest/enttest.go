@@ -5,9 +5,9 @@ package enttest
 import (
 	"context"
 
-	"github.com/kallydev/privacy/ent"
+	"github.com/wq22304/privacy/ent"
 	// required by schema hooks.
-	_ "github.com/kallydev/privacy/ent/runtime"
+	_ "github.com/wq22304/privacy/ent/runtime"
 
 	"github.com/facebook/ent/dialect/sql/schema"
 )
