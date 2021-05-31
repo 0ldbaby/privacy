@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/kallydev/privacy/database"
+	"github.com/wq22304/privacy/database"
 )
 
 type Result interface {
